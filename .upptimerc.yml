@@ -15,7 +15,7 @@ sites:
     url: 158.174.146.146
     port: 21
   - name: US Archive Mirror
-    url: https://mirror.macintosharchive.org
+    url: http://mirror.macintosharchive.org
   - name: Macintosh Garden (DEV)
     url: https://macintosh.garden
     expectedStatusCodes:
