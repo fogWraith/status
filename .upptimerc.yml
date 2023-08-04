@@ -27,7 +27,7 @@ sites:
 status-website:
   cname: status.macintosh.garden
   logoUrl: https://raw.githubusercontent.com/fogWraith/status/master/assets/Apple_logo_black.svg
-  name: Status
+  name: MG Server Status
   introTitle: "**Macintosh Garden** Server Status"
   introMessage: Knowing is half the battle.
   navbar:
