@@ -5,8 +5,19 @@ repo: status # The name of this repository
 sites:
   - name: Macintosh Garden
     url: https://macintoshgarden.org
+  - name: DE Archive Mirror
+    url: https://old.mac.gdn
+  - name: SE Archive Mirror
+    check: "tcp-ping"
+    url: 158.174.146.146
+    port: 21
+  - name: US Archive Mirror
+    url: https://mirror.macintosharchive.org
   - name: Macintosh Garden (DEV)
     url: https://macintosh.garden
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: System 7 Today
     url: https://system7today.com.com
 
