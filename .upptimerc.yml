@@ -7,6 +7,9 @@ sites:
     url: https://macintoshgarden.org
   - name: DE Archive Mirror
     url: https://old.mac.gdn
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: SE Archive Mirror
     check: "tcp-ping"
     url: 158.174.146.146
