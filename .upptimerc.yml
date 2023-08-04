@@ -21,8 +21,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: Revontulet
+    url: https://revontulet.org
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: System 7 Today
-    url: https://system7today.com.com
+    url: https://system7today.com
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   cname: status.macintosh.garden
