@@ -4,19 +4,19 @@
     "url": "https://macintoshgarden.org",
     "icon": "https://icons.duckduckgo.com/ip3/macintoshgarden.org.ico",
     "slug": "macintosh-garden",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 711,
-    "timeDay": 565,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 968,
+    "timeDay": 2571,
+    "timeWeek": 968,
+    "timeMonth": 968,
+    "timeYear": 968,
     "dailyMinutesDown": {
-      "2023-08-06": 1
+      "2023-08-06": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "158.174.146.146",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "se-archive-mirror",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 145,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 142,
     "timeDay": 111,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-08-06": 6
+      "2023-08-06": 10
     }
   },
   {
