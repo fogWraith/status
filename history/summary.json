@@ -44,10 +44,10 @@
     "url": "158.174.146.146",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "se-archive-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 139,
@@ -56,6 +56,7 @@
     "timeMonth": 132,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2023-12-04": 1,
       "2023-10-10": 21,
       "2023-08-14": 16
     }
@@ -77,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-12-04": 3,
+      "2023-12-04": 12,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
