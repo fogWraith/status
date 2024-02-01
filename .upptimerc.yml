@@ -12,7 +12,7 @@ sites:
       - 403
   - name: SE Archive Mirror
     check: "tcp-ping"
-    url: 158.174.146.146
+    url: 62.116.228.147
     port: 21
   - name: US Archive Mirror
     url: http://mirror.macintosharchive.org
