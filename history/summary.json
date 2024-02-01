@@ -47,7 +47,7 @@
     "slug": "se-archive-mirror",
     "status": "up",
     "uptime": "85.03%",
-    "uptimeDay": "0.04%",
+    "uptimeDay": "0.05%",
     "uptimeWeek": "0.01%",
     "uptimeMonth": "17.55%",
     "uptimeYear": "85.03%",
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-02-01": 766,
+      "2024-02-01": 767,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
