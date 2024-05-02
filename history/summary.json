@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-05-02": 304,
+      "2024-05-02": 312,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -402,19 +402,19 @@
     "url": "https://revontulet.org",
     "icon": "https://icons.duckduckgo.com/ip3/revontulet.org.ico",
     "slug": "revontulet",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 517,
-    "timeDay": 509,
-    "timeWeek": 507,
+    "timeDay": 516,
+    "timeWeek": 509,
     "timeMonth": 530,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-05-02": 0
+      "2024-05-02": 8
     }
   },
   {
