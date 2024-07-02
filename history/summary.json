@@ -27,19 +27,19 @@
     "url": "https://old.mac.gdn",
     "icon": "https://icons.duckduckgo.com/ip3/old.mac.gdn.ico",
     "slug": "de-archive-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 416,
-    "timeWeek": 309,
-    "timeMonth": 259,
+    "timeDay": 355,
+    "timeWeek": 300,
+    "timeMonth": 258,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-07-02": 1
+      "2024-07-02": 12
     }
   },
   {
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-07-02": 755,
+      "2024-07-02": 767,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
