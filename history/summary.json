@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "se-archive-mirror",
     "status": "up",
-    "uptime": "92.88%",
+    "uptime": "92.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 3,
+      "2024-08-23": 650,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -499,18 +499,20 @@
     "url": "https://revontulet.org",
     "icon": "https://icons.duckduckgo.com/ip3/revontulet.org.ico",
     "slug": "revontulet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
-    "timeDay": 345,
-    "timeWeek": 526,
-    "timeMonth": 533,
+    "timeDay": 419,
+    "timeWeek": 522,
+    "timeMonth": 531,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "System 7 Today",
