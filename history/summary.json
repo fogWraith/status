@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 696,
-    "timeDay": 588,
-    "timeWeek": 711,
-    "timeMonth": 709,
-    "timeYear": 685,
+    "timeDay": 577,
+    "timeWeek": 671,
+    "timeMonth": 700,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2023-12-17": 16,
       "2023-10-24": 161,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 335,
-    "timeWeek": 253,
-    "timeMonth": 233,
+    "timeDay": 309,
+    "timeWeek": 263,
+    "timeMonth": 240,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "se-archive-mirror",
     "status": "up",
-    "uptime": "92.89%",
+    "uptime": "92.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.50%",
     "time": 134,
     "timeDay": 106,
-    "timeWeek": 129,
-    "timeMonth": 132,
-    "timeYear": 134,
+    "timeWeek": 120,
+    "timeMonth": 128,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2024-07-19": 23,
       "2024-07-18": 59,
@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.macintosharchive.org.ico",
     "slug": "us-archive-mirror",
     "status": "down",
-    "uptime": "1.08%",
+    "uptime": "1.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 656,
+      "2024-08-24": 3,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -472,8 +473,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -487,11 +487,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 223,
-    "timeWeek": 219,
-    "timeMonth": 259,
-    "timeYear": 264,
+    "time": 265,
+    "timeDay": 193,
+    "timeWeek": 207,
+    "timeMonth": 251,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -501,18 +501,16 @@
     "slug": "revontulet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 520,
-    "timeDay": 408,
-    "timeWeek": 507,
-    "timeMonth": 526,
+    "timeDay": 461,
+    "timeWeek": 492,
+    "timeMonth": 524,
     "timeYear": 520,
-    "dailyMinutesDown": {
-      "2024-08-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "System 7 Today",
@@ -526,9 +524,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 135,
-    "timeWeek": 107,
-    "timeMonth": 102,
+    "timeDay": 64,
+    "timeWeek": 100,
+    "timeMonth": 100,
     "timeYear": 88,
     "dailyMinutesDown": {}
   }
