@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 696,
-    "timeDay": 634,
-    "timeWeek": 635,
-    "timeMonth": 703,
-    "timeYear": 683,
+    "time": 695,
+    "timeDay": 496,
+    "timeWeek": 613,
+    "timeMonth": 685,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2023-12-17": 16,
       "2023-10-24": 161,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 349,
-    "timeWeek": 258,
-    "timeMonth": 239,
+    "time": 254,
+    "timeDay": 184,
+    "timeWeek": 244,
+    "timeMonth": 237,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "se-archive-mirror",
     "status": "up",
-    "uptime": "92.92%",
+    "uptime": "92.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -53,7 +53,7 @@
     "time": 134,
     "timeDay": 106,
     "timeWeek": 111,
-    "timeMonth": 128,
+    "timeMonth": 125,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2024-07-19": 23,
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-25": 3,
+      "2024-08-26": 3,
+      "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -472,8 +473,7 @@
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
-      "2023-08-28": 1440,
-      "2023-08-27": 1440
+      "2023-08-28": 1440
     }
   },
   {
@@ -488,10 +488,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 294,
-    "timeWeek": 240,
-    "timeMonth": 250,
-    "timeYear": 263,
+    "timeDay": 437,
+    "timeWeek": 264,
+    "timeMonth": 261,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -506,9 +506,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 520,
-    "timeDay": 497,
+    "timeDay": 501,
     "timeWeek": 476,
-    "timeMonth": 524,
+    "timeMonth": 515,
     "timeYear": 520,
     "dailyMinutesDown": {}
   },
@@ -524,10 +524,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 133,
-    "timeWeek": 112,
-    "timeMonth": 102,
-    "timeYear": 88,
+    "timeDay": 97,
+    "timeWeek": 106,
+    "timeMonth": 100,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   }
 ]
