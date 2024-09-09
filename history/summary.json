@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 695,
-    "timeDay": 638,
-    "timeWeek": 662,
-    "timeMonth": 676,
+    "timeDay": 642,
+    "timeWeek": 663,
+    "timeMonth": 675,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2023-12-17": 16,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 192,
-    "timeWeek": 240,
-    "timeMonth": 239,
+    "timeDay": 193,
+    "timeWeek": 241,
+    "timeMonth": 237,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "se-archive-mirror",
     "status": "up",
-    "uptime": "93.17%",
+    "uptime": "93.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-08": 3,
+      "2024-09-09": 3,
+      "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
@@ -471,8 +472,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440
+      "2023-09-11": 1440
     }
   },
   {
@@ -487,9 +487,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 379,
-    "timeWeek": 316,
-    "timeMonth": 279,
+    "timeDay": 293,
+    "timeWeek": 327,
+    "timeMonth": 280,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -505,9 +505,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 496,
-    "timeWeek": 524,
-    "timeMonth": 530,
+    "timeDay": 509,
+    "timeWeek": 522,
+    "timeMonth": 529,
     "timeYear": 521,
     "dailyMinutesDown": {}
   },
@@ -523,9 +523,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 130,
+    "timeDay": 131,
     "timeWeek": 126,
-    "timeMonth": 110,
+    "timeMonth": 111,
     "timeYear": 90,
     "dailyMinutesDown": {}
   }
