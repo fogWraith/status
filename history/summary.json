@@ -6,17 +6,16 @@
     "slug": "macintosh-garden",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "98.88%",
     "time": 691,
-    "timeDay": 648,
-    "timeWeek": 677,
+    "timeDay": 667,
+    "timeWeek": 679,
     "timeMonth": 685,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-06-18": 5,
       "2025-06-16": 26,
       "2025-06-15": 44,
       "2025-06-14": 52,
@@ -50,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 325,
-    "timeWeek": 247,
+    "timeDay": 177,
+    "timeWeek": 245,
     "timeMonth": 275,
     "timeYear": 276,
     "dailyMinutesDown": {}
@@ -68,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.28%",
     "time": 131,
-    "timeDay": 97,
-    "timeWeek": 132,
-    "timeMonth": 128,
+    "timeDay": 153,
+    "timeWeek": 137,
+    "timeMonth": 127,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-05-14": 67,
@@ -136,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-18": 1259,
+      "2025-06-19": 4,
+      "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
@@ -499,8 +499,7 @@
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
-      "2024-06-20": 1440,
-      "2024-06-19": 1440
+      "2024-06-20": 1440
     }
   },
   {
@@ -515,10 +514,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 251,
-    "timeWeek": 344,
-    "timeMonth": 321,
-    "timeYear": 303,
+    "timeDay": 364,
+    "timeWeek": 358,
+    "timeMonth": 322,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -533,10 +532,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 490,
-    "timeWeek": 571,
+    "timeDay": 645,
+    "timeWeek": 584,
     "timeMonth": 556,
-    "timeYear": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {}
   },
   {
@@ -551,9 +550,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 72,
-    "timeWeek": 119,
-    "timeMonth": 123,
+    "timeDay": 144,
+    "timeWeek": 124,
+    "timeMonth": 124,
     "timeYear": 113,
     "dailyMinutesDown": {}
   }
