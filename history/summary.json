@@ -4,11 +4,11 @@
     "url": "https://macintoshgarden.org",
     "icon": "https://icons.duckduckgo.com/ip3/macintoshgarden.org.ico",
     "slug": "macintosh-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "94.47%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "98.45%",
     "time": 693,
     "timeDay": 740,
@@ -16,7 +16,7 @@
     "timeMonth": 683,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-07-10": 47,
+      "2025-07-10": 37,
       "2025-07-09": 31,
       "2025-07-07": 69,
       "2025-07-06": 56,
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 936,
+      "2025-07-10": 1006,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -536,18 +536,16 @@
     "slug": "revontulet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 535,
     "timeDay": 574,
     "timeWeek": 532,
     "timeMonth": 550,
     "timeYear": 536,
-    "dailyMinutesDown": {
-      "2025-07-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "System 7 Today",
