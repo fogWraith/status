@@ -12,7 +12,7 @@
     "uptimeYear": "98.45%",
     "time": 688,
     "timeDay": 635,
-    "timeWeek": 688,
+    "timeWeek": 691,
     "timeMonth": 682,
     "timeYear": 692,
     "dailyMinutesDown": {
@@ -145,7 +145,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1435,
+      "2025-07-12": 0,
+      "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -508,8 +509,7 @@
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
-      "2024-07-13": 1440,
-      "2024-07-12": 1440
+      "2024-07-13": 1440
     }
   },
   {
@@ -535,19 +535,20 @@
     "url": "https://revontulet.org",
     "icon": "https://icons.duckduckgo.com/ip3/revontulet.org.ico",
     "slug": "revontulet",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 601,
-    "timeWeek": 564,
-    "timeMonth": 551,
+    "time": 534,
+    "timeDay": 565,
+    "timeWeek": 558,
+    "timeMonth": 549,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-12": 0,
+      "2025-07-11": 5
     }
   },
   {
