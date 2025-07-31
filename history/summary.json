@@ -6,17 +6,17 @@
     "slug": "macintosh-garden",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "87.64%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.30%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "98.29%",
     "time": 687,
-    "timeDay": 679,
+    "timeDay": 702,
     "timeWeek": 677,
     "timeMonth": 685,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-07-30": 179,
+      "2025-07-30": 168,
       "2025-07-28": 85,
       "2025-07-27": 2,
       "2025-07-22": 56,
@@ -92,7 +92,7 @@
     "time": 130,
     "timeDay": 101,
     "timeWeek": 143,
-    "timeMonth": 136,
+    "timeMonth": 135,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-05-14": 67,
@@ -148,7 +148,7 @@
     "uptime": "0.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -156,7 +156,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1410,
+      "2025-07-31": 4,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -519,8 +520,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -537,7 +537,7 @@
     "time": 305,
     "timeDay": 250,
     "timeWeek": 249,
-    "timeMonth": 451,
+    "timeMonth": 446,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -555,7 +555,7 @@
     "time": 537,
     "timeDay": 483,
     "timeWeek": 591,
-    "timeMonth": 566,
+    "timeMonth": 564,
     "timeYear": 538,
     "dailyMinutesDown": {}
   },
