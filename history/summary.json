@@ -6,12 +6,12 @@
     "slug": "macintosh-garden",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "97.12%",
+    "uptimeDay": "97.11%",
     "uptimeWeek": "96.13%",
     "uptimeMonth": "96.56%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.11%",
     "time": 686,
-    "timeDay": 681,
+    "timeDay": 683,
     "timeWeek": 677,
     "timeMonth": 680,
     "timeYear": 687,
@@ -72,8 +72,7 @@
       "2025-06-03": 31,
       "2025-05-29": 19,
       "2025-05-28": 47,
-      "2025-05-27": 1,
-      "2025-05-16": 89
+      "2025-05-27": 1
     }
   },
   {
@@ -173,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-24": 231,
+      "2025-08-24": 267,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
