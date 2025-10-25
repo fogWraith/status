@@ -4,15 +4,15 @@
     "url": "https://macintoshgarden.org",
     "icon": "https://icons.duckduckgo.com/ip3/macintoshgarden.org.ico",
     "slug": "macintosh-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.63%",
+    "uptimeDay": "97.62%",
     "uptimeWeek": "97.55%",
     "uptimeMonth": "96.12%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 688,
-    "timeDay": 890,
-    "timeWeek": 676,
+    "timeDay": 916,
+    "timeWeek": 674,
     "timeMonth": 675,
     "timeYear": 688,
     "dailyMinutesDown": {
@@ -75,8 +75,7 @@
       "2025-08-21": 126,
       "2025-08-20": 70,
       "2025-08-19": 23,
-      "2025-08-18": 70,
-      "2025-08-17": 15
+      "2025-08-18": 70
     }
   },
   {
@@ -107,7 +106,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "89.47%",
+    "uptimeYear": "89.49%",
     "time": 129,
     "timeDay": 133,
     "timeWeek": 128,
@@ -176,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 323,
+      "2025-10-25": 412,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
