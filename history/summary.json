@@ -6,17 +6,17 @@
     "slug": "macintosh-garden",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "99.41%",
     "time": 687,
-    "timeDay": 681,
+    "timeDay": 669,
     "timeWeek": 693,
     "timeMonth": 670,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-10-30": 25,
+      "2025-10-30": 17,
       "2025-10-29": 70,
       "2025-10-27": 15,
       "2025-10-26": 60,
@@ -76,7 +76,8 @@
       "2025-08-24": 19,
       "2025-08-23": 22,
       "2025-08-22": 24,
-      "2025-08-21": 126
+      "2025-08-21": 126,
+      "2025-08-20": 18
     }
   },
   {
@@ -93,7 +94,7 @@
     "time": 277,
     "timeDay": 192,
     "timeWeek": 262,
-    "timeMonth": 304,
+    "timeMonth": 302,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -107,11 +108,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "91.05%",
+    "uptimeYear": "91.06%",
     "time": 129,
     "timeDay": 113,
     "timeWeek": 119,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-10-11": 49,
@@ -150,8 +151,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -163,7 +163,7 @@
     "uptime": "0.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -171,7 +171,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 1406,
+      "2025-10-31": 4,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -534,8 +535,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -552,7 +552,7 @@
     "time": 307,
     "timeDay": 312,
     "timeWeek": 208,
-    "timeMonth": 241,
+    "timeMonth": 238,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -570,7 +570,7 @@
     "time": 538,
     "timeDay": 455,
     "timeWeek": 485,
-    "timeMonth": 518,
+    "timeMonth": 516,
     "timeYear": 537,
     "dailyMinutesDown": {}
   },
