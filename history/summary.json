@@ -4,19 +4,19 @@
     "url": "https://macintoshgarden.org",
     "icon": "https://icons.duckduckgo.com/ip3/macintoshgarden.org.ico",
     "slug": "macintosh-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "97.89%",
     "uptimeYear": "99.43%",
     "time": 687,
-    "timeDay": 711,
-    "timeWeek": 674,
+    "timeDay": 713,
+    "timeWeek": 672,
     "timeMonth": 670,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-11-06": 6,
+      "2025-11-06": 0,
       "2025-11-05": 50,
       "2025-11-04": 39,
       "2025-10-30": 17,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 265,
-    "timeWeek": 273,
-    "timeMonth": 292,
+    "timeDay": 289,
+    "timeWeek": 287,
+    "timeMonth": 291,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -108,11 +108,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "92.96%",
+    "uptimeYear": "92.97%",
     "time": 129,
-    "timeDay": 100,
+    "timeDay": 112,
     "timeWeek": 117,
-    "timeMonth": 124,
+    "timeMonth": 123,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-10-11": 49,
@@ -144,8 +144,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -165,7 +164,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 1384,
+      "2025-11-07": 0,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -528,8 +528,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   },
   {
@@ -544,10 +543,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 306,
-    "timeWeek": 333,
-    "timeMonth": 247,
-    "timeYear": 318,
+    "timeDay": 487,
+    "timeWeek": 358,
+    "timeMonth": 251,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -562,10 +561,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 400,
+    "timeDay": 458,
     "timeWeek": 472,
-    "timeMonth": 509,
-    "timeYear": 535,
+    "timeMonth": 505,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -580,9 +579,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 67,
+    "timeDay": 90,
     "timeWeek": 97,
-    "timeMonth": 130,
+    "timeMonth": 127,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
