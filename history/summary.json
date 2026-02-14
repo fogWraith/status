@@ -4,18 +4,19 @@
     "url": "https://macintoshgarden.org",
     "icon": "https://icons.duckduckgo.com/ip3/macintoshgarden.org.ico",
     "slug": "macintosh-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.12%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 715,
-    "timeDay": 636,
-    "timeWeek": 895,
-    "timeMonth": 1963,
+    "timeDay": 1025,
+    "timeWeek": 915,
+    "timeMonth": 1922,
     "timeYear": 714,
     "dailyMinutesDown": {
+      "2026-02-14": 0,
       "2026-02-09": 47,
       "2026-02-07": 142,
       "2026-02-05": 59,
@@ -67,9 +68,7 @@
       "2025-11-16": 26,
       "2025-11-14": 57,
       "2025-11-12": 71,
-      "2025-11-11": 17,
-      "2025-11-10": 36,
-      "2025-11-09": 1
+      "2025-11-11": 17
     }
   },
   {
@@ -84,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 208,
-    "timeWeek": 244,
+    "timeDay": 140,
+    "timeWeek": 234,
     "timeMonth": 264,
-    "timeYear": 281,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -102,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 128,
-    "timeDay": 96,
-    "timeWeek": 120,
-    "timeMonth": 118,
+    "timeDay": 161,
+    "timeWeek": 127,
+    "timeMonth": 120,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-01-02": 67,
@@ -131,7 +130,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 8,
+      "2026-02-14": 4,
+      "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -494,8 +494,7 @@
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
-      "2025-02-15": 1440,
-      "2025-02-14": 1440
+      "2025-02-15": 1440
     }
   },
   {
@@ -510,10 +509,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 202,
-    "timeWeek": 305,
-    "timeMonth": 267,
-    "timeYear": 320,
+    "timeDay": 49,
+    "timeWeek": 271,
+    "timeMonth": 256,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -522,18 +521,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/revontulet.org.ico",
     "slug": "revontulet",
     "status": "down",
-    "uptime": "93.94%",
+    "uptime": "93.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.66%",
+    "uptimeYear": "84.39%",
     "time": 537,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 536,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2026-02-13": 8,
+      "2026-02-14": 4,
+      "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -604,9 +604,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 126,
-    "timeWeek": 143,
-    "timeMonth": 121,
+    "timeDay": 57,
+    "timeWeek": 140,
+    "timeMonth": 118,
     "timeYear": 127,
     "dailyMinutesDown": {}
   }
